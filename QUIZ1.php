@@ -53,7 +53,7 @@
     <h3>FORM DOSEN</h3>
   </div>
   <div class="card-body">
-  <form action="prosesquiz11.php" method="POST" enctype="multipart/form-data">
+  <form action="PROSESQUIZ1.php" method="POST" enctype="multipart/form-data">
 
 
   <div class="mb-3">
